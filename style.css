@@ -1,0 +1,26 @@
+
+body {
+    background-color: #970f0f;
+    color: white;
+    font-family: "SUSE", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button {
+    background-color: aliceblue;
+    color: black;
+    font-family: "SUSE", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
